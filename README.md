@@ -1,4 +1,4 @@
-# Boas Práticas de programação - Oi Digital
+# Boas Práticas de programação - Node
 
 Nesse guia falaremos sobre algumas boas práticas de programação e padrões que devem ser utilizados pelas equipes de desenvolvimento de software.
 
