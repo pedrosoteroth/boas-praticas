@@ -350,7 +350,7 @@ function definirDataDeEnvio(conta) {
 
 ### Evite condicionais
 
-De acordo com o principio da responsabilidade unica, sempre que necessario devemos seprar as coisas para que casa classe, método ou função tenha apenas uma responsabilidade.
+De acordo com o principio da responsabilidade unica, sempre que necessario devemos seprar as coisas para que cada classe, método ou função tenha apenas uma responsabilidade.
 
 Ruim:
 
